@@ -1,7 +1,8 @@
 🚀 Hover Image Slider (HTML & CSS Only)
 A pure HTML & CSS image slider where images shrink by default, and on hover, the selected image expands while others shrink. No JavaScript is required!
 
-📸 Preview
+📸 Preview : https://praveenkr398.github.io/ImageSlider/
+Code : https://github.com/Praveenkr398/ImageSlider
 
 🔥 Features
 ✅ Pure HTML & CSS (No JavaScript)
@@ -13,3 +14,6 @@ A pure HTML & CSS image slider where images shrink by default, and on hover, the
 HTML5
 
 CSS3 (Flexbox & Transitions)
+
+
+![Uploading image.png…]()
