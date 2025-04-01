@@ -4,6 +4,10 @@ A pure HTML & CSS image slider where images shrink by default, and on hover, the
 📸 Preview : https://praveenkr398.github.io/ImageSlider/
 Code : https://github.com/Praveenkr398/ImageSlider
 
+
+Category:- "Mini Project, HTML, CSS"
+
+
 🔥 Features
 ✅ Pure HTML & CSS (No JavaScript)
 ✅ Smooth Hover Effect
@@ -14,7 +18,3 @@ Code : https://github.com/Praveenkr398/ImageSlider
 HTML5
 
 CSS3 (Flexbox & Transitions)
-
-
-![Uploading image.png…]()
-
